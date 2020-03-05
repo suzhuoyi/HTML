@@ -26,7 +26,7 @@ Visual Studio Code（简称 VS Code）是一个由微软开发，同时支持 Wi
 </body>
 </html>
 ~~~
-![xp](https://www.runoob.com/wp-content/uploads/2013/06/EAD13C0B-0BE9-411E-8E2A-23600B0BEF9B.jpg)  
+![xp](https://www.runoob.com/wp-content/uploads/2013/06/EAD13C0B-0BE9-411E-8E2A-23600B0BEF9B.jpg "说明")  
 
 ## 2. 另存为 HTML 文件  
 
